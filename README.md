@@ -1,4 +1,4 @@
-<h1 align="left">Hola, soy Jhonatan Zarzuri. Me apasiona la tecnología y el desarrollo de software, y exploro constantemente nuevas herramientas y marcos para crear soluciones impactantes. ¡Bienvenido a mi perfil de GitHub!</h1>
+<h1 align="center">Hola, soy Jhonatan Zarzuri, un entusiasta de la tecnología y desarrollador de software. ¡Bienvenido a mi perfil de GitHub!</h1>
 
 ###
 
